@@ -1,2 +1,2 @@
 # Medical_Record
-# 3 Tier Architecture that could allow easy storing and Access of Personal Medical Record. 
+Simple Medical app in C# for medical record storage and possible medical diagnosis could allow easy storing and Access of Personal Medical Record. 
